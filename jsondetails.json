@@ -16,7 +16,7 @@
       "url": "https://pokeapi.co/api/v2/pokemon/3/"
     },
     {
-      "name": "Maneu 4",
+      "name": "Menu 4",
       "url": "https://pokeapi.co/api/v2/pokemon/4/"
     },
     {
@@ -24,23 +24,23 @@
       "url": "https://pokeapi.co/api/v2/pokemon/5/"
     },
     {
-      "name": "charizard",
+      "name": "c",
       "url": "https://pokeapi.co/api/v2/pokemon/6/"
     },
     {
-      "name": "squirtle",
+      "name": "s",
       "url": "https://pokeapi.co/api/v2/pokemon/7/"
     },
     {
-      "name": "wartortle",
+      "name": "w",
       "url": "https://pokeapi.co/api/v2/pokemon/8/"
     },
     {
-      "name": "blastoise",
+      "name": "b",
       "url": "https://pokeapi.co/api/v2/pokemon/9/"
     },
     {
-      "name": "caterpie",
+      "name": "c",
       "url": "https://pokeapi.co/api/v2/pokemon/10/"
     }
   ]
