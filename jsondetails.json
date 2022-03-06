@@ -1,0 +1,47 @@
+{
+  "count": 1126,
+  "next": "https://pokeapi.co/api/v2/pokemon?offset=10&limit=10",
+  "previous": null,
+  "results": [
+    {
+      "name": "Cafe Lilo",
+      "url": "https://raw.githubusercontent.com/detailsMenu/tree/main/img/cafelil.png"
+    },
+    {
+      "name": "Menu 2",
+      "url": "https://pokeapi.co/api/v2/pokemon/2/"
+    },
+    {
+      "name": "Menu 3",
+      "url": "https://pokeapi.co/api/v2/pokemon/3/"
+    },
+    {
+      "name": "Maneu 4",
+      "url": "https://pokeapi.co/api/v2/pokemon/4/"
+    },
+    {
+      "name": "charmeleon",
+      "url": "https://pokeapi.co/api/v2/pokemon/5/"
+    },
+    {
+      "name": "charizard",
+      "url": "https://pokeapi.co/api/v2/pokemon/6/"
+    },
+    {
+      "name": "squirtle",
+      "url": "https://pokeapi.co/api/v2/pokemon/7/"
+    },
+    {
+      "name": "wartortle",
+      "url": "https://pokeapi.co/api/v2/pokemon/8/"
+    },
+    {
+      "name": "blastoise",
+      "url": "https://pokeapi.co/api/v2/pokemon/9/"
+    },
+    {
+      "name": "caterpie",
+      "url": "https://pokeapi.co/api/v2/pokemon/10/"
+    }
+  ]
+}
